@@ -19,4 +19,14 @@ More than that!
 
 <img src="/images/google_ads_packages_1080.png" width="400" height="800" />
 
-Have fun with Flutter and [FlutterShark](https://play.google.com/store/apps/details?id=com.fluttershark.fluttersharkapp)! :)  
+Have fun with Flutter and [FlutterShark](https://play.google.com/store/apps/details?id=com.fluttershark.fluttersharkapp)! :)
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-X10X2PW4L1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-X10X2PW4L1');
+</script>
